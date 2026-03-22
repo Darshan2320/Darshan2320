@@ -1,54 +1,66 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:378ADD&height=200&section=header&text=Darshan%20Jain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Analytics%20%7C%20Data%20Analyst%20%7C%20May%202026&descAlignY=55&descSize=18)
-
 # Darshan Jain
-
-**Business Analytics | Data Analyst | Available May 2026**
+**Data Analyst | Business Analytics**
 
 M.S. in Business Analytics at Clark University (GPA: 3.91)
 
-I build data-driven solutions using SQL, Python, Tableau, and Power BI across finance, healthcare, marketing, and operations.
+Data Analyst specializing in SQL, Python, and data visualization, with experience building predictive models, dashboards, and automation solutions across finance, healthcare, and marketing.
 
 ---
 
-## Featured Projects
+## 🔹 Featured Projects
 
-- **Real Estate Predictive Modeling** — Python, SQL, Tableau
-- **Credit Risk Analytics** — R, Logistic Regression, Decision Trees
-- **Stack Overflow Developer Survey Analysis** — SQL, PySpark, Power BI, DBT
-- **DeFi Transparency Platform** — Solidity, Web3.py
+🏡 **Real Estate Price Prediction**  
+Built machine learning model (Random Forest) improving prediction accuracy by 18%  
+Tech: Python, SQL, Tableau  
+👉 [GitHub Repo](#)
 
----
+💳 **Credit Risk Modeling**  
+Developed logistic regression & decision tree models achieving 95% classification accuracy  
+Tech: R, Python  
+👉 [GitHub Repo](#)
 
-## Experience
+📊 **Retail / Marketing Analytics Dashboard**  
+Analyzed sales & shipping data to optimize discount strategies and reduce costs  
+Tech: SQL, Tableau, Power BI  
+👉 [Dashboard Link](#)
 
-- **Teaching Assistant, Clark University** — Advanced Big Data Computing (Jan 2026 – Present)
-- **Graduate Assistant, Clark University** (Aug 2025 – Present)
-- **Data & Strategy Intern, Vosyn** (May – Jul 2025)
-- **Financial Data Analyst, Jaihind Group** (Jun 2023 – Jul 2024)
-
----
-
-## Skills
-
-**Languages & Tools:** SQL · Python · R · PySpark · Tableau · Power BI · Databricks · BigQuery · DBT · Excel · Git
-
----
-
-## Highlights
-
-- 3.91 / 4.0 GPA — M.S. Business Analytics
-- 500K+ records analyzed
-- 30% reporting automation improvement at Vosyn
-- DSI 2025 Annual Conference Presenter
-- VP, Beta Alpha Psi · Treasurer, Clark University SoB Student Council
+🔗 **DeFi Transparency Platform**  
+Designed blockchain-based system for transaction transparency using smart contracts  
+Tech: Solidity, Web3.py  
+👉 [GitHub Repo](#)
 
 ---
 
-## Connect With Me
+## 🔹 Experience
 
-- Email: dajain@clarku.edu
-- LinkedIn: [Darshan Jain](https://www.linkedin.com/in/darshan-jain-30095323b)
+**Teaching Assistant, Clark University**  
+Supported grading and guided students on SQL, big data pipelines, and analytics concepts
+
+**Data & Strategy Intern, Vosyn**  
+Worked on business insights, data analysis, and strategic recommendations
+
+**Financial Data Analyst, Jaihind Group**  
+Analyzed financial data to support reporting and decision-making
 
 ---
 
-*Open to full-time Business Analytics & Data Analytics roles — May 2026*
+## 🔹 Skills
+
+**Languages & Tools:**  
+SQL | Python | R | Tableau | Power BI | PySpark | Databricks | Excel | AWS
+
+---
+
+## 🔹 Highlights
+
+- GPA: 3.91 / 4.0  
+- Analyzed 500K+ records  
+- Improved reporting efficiency by 30%  
+- Presenter – DSI Conference 2025  
+
+---
+
+## 🔹 Connect With Me
+
+📧 dajain@clarku.edu  
+🔗 LinkedIn: https://www.linkedin.com/in/darshan-jain-30095323b  

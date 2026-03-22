@@ -33,8 +33,6 @@ Tech: Solidity, Web3.py
 
 ## 🔹 Experience
 
-## 🔹 Experience
-
 **Graduate Teaching Assistant, Clark University**  
 Guided 50+ students on SQL, big data pipelines, and analytics workflows; supported grading and evaluation for BAN 5600 (Advanced Big Data Computing & Programming)
 
@@ -46,6 +44,7 @@ Worked on business insights, data analysis, and strategic recommendations to sup
 
 **Financial Data Analyst, Jaihind Group**  
 Analyzed financial data, built reports, and supported business decision-making through data-driven insights
+
 ---
 
 ## 🔹 Skills

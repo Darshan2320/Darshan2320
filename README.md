@@ -33,15 +33,19 @@ Tech: Solidity, Web3.py
 
 ## 🔹 Experience
 
-**Teaching Assistant, Clark University**  
-Supported grading and guided students on SQL, big data pipelines, and analytics concepts
+## 🔹 Experience
+
+**Graduate Teaching Assistant, Clark University**  
+Guided 50+ students on SQL, big data pipelines, and analytics workflows; supported grading and evaluation for BAN 5600 (Advanced Big Data Computing & Programming)
+
+**Graduate Assistant, Clark University**  
+Supported academic and administrative initiatives including data analysis, student coordination, and program support within the School of Business
 
 **Data & Strategy Intern, Vosyn**  
-Worked on business insights, data analysis, and strategic recommendations
+Worked on business insights, data analysis, and strategic recommendations to support decision-making
 
 **Financial Data Analyst, Jaihind Group**  
-Analyzed financial data to support reporting and decision-making
-
+Analyzed financial data, built reports, and supported business decision-making through data-driven insights
 ---
 
 ## 🔹 Skills
